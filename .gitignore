@@ -1,0 +1,23 @@
+# Compiled Object files
+*.slo
+*.lo
+# Compiled Dynamic libraries
+*.so
+# Compiled Static libraries
+*.lai
+*.la
+*.o
+*.a
+t_*
+bin
+vw
+.*
+vw.1
+*.cache
+*.tgz
+test/*.tmp
+test/models
+*.bak
+*.prev
+tags
+*.Po
